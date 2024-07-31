@@ -1,3 +1,6 @@
 [submodule "themes/hexo-theme-Mic_Theme"]
-	path = themes/hexo-theme-Mic_Theme
+    path = themes/hexo-theme-Mic_Theme
+    url = https://github.com/jamesbonddog/hexo-theme-Mic_Theme
+[submodule "themes/themes/hexo-theme-Mic_Theme"]
+	path = themes/themes/hexo-theme-Mic_Theme
 	url = https://github.com/jamesbonddog/hexo-theme-Mic_Theme
